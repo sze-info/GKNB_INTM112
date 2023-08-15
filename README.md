@@ -1,2 +1,2 @@
 # GKNB_INTM112
-Python alapok informatikusoknak
+A "Python alapok informatikusoknak" című tantárgy hivatalos Github repozitóriuma.
