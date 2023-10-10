@@ -1,3 +1,0 @@
-alma: 10
-ásványvíz: 6
-liszt: 1
